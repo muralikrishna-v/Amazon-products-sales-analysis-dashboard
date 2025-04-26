@@ -36,7 +36,7 @@ The solution uses three main tables with a clear relational model:
 - `Amazon Prime Data`: Independent table, analyzed separately.
 
 📷 **Data Model Snapshot:**  
-![Data Model Preview](#)
+![Data Model Preview](https://github.com/muralikrishna-v/Amazon-products-sales-analysis-dashboard/blob/main/Screenshot%202025-04-27%20011449.png)
 
 ---
 
