@@ -76,7 +76,7 @@ The solution uses three main tables with a clear relational model:
 - **Top 5 Movies by Total Reviews** (Bar Chart): Highlight most engaging content.
 
 📷 **Dashboard Preview:**  
-![Amazon Prime Dashboard](#)
+![Amazon Prime Dashboard](https://github.com/muralikrishna-v/Amazon-products-sales-analysis-dashboard/blob/main/Screenshot%202025-04-27%20011309.png)
 
 ---
 
