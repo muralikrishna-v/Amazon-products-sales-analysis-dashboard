@@ -58,7 +58,7 @@ The solution uses three main tables with a clear relational model:
 - **Top 5 Products by YTD Reviews** (Bar Chart): Spotlight most-reviewed products.
 
 📷 **Dashboard Preview:**  
-![Amazon Product Dashboard](#)
+![Amazon Product Dashboard](https://github.com/muralikrishna-v/Amazon-products-sales-analysis-dashboard/blob/main/Screenshot%202025-04-27%20011335.png)
 
 ---
 
