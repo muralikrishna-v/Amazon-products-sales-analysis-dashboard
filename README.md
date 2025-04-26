@@ -115,8 +115,8 @@ The dashboards are **designed for executives**, **analysts**, and **business man
 If you found this project valuable or would like to collaborate, feel free to reach out:
 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/muralikvasantha/)
-- 📧 Email: **[Insert your email]**
+- 📧 Email: **[muralikrishnavasanthavmk@gmail.com]**
 
 ---
 
-## 🔖 Hashtags for Recruiters / Discoverability
+
